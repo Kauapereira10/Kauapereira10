@@ -34,7 +34,7 @@ Sou movido por desafios e estou sempre em busca de novos conhecimentos na área 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
-  <img src="https://wp.logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" height="25" alt="node logo"  />
+  <img src="https://www.liblogo.com/img-logo/no6273w13b-node-js-logo-what-does-it-take-to-support-node-js-esm-the-guild-blog.png" height="25" alt="node logo"  />
   <img width="8" />
   <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
