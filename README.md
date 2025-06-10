@@ -65,8 +65,4 @@ Sou movido por desafios e estou sempre em busca de novos conhecimentos na área 
 
 #
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauapereira10/Kauapereira10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kauapereira10/Kauapereira10/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kauapereira10/Kauapereira10/output/github-contribution-grid-snake.svg">
-</picture>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kauapereira10&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
