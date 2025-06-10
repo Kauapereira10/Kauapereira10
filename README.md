@@ -8,8 +8,9 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia da Uninove. Atualmente estou priorizando estudar mais afunco JavaScrit para focar em Front-end.
-Estou constantemente buscando cada vez mais conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Uninove.
+Atualmente estou me dedicando ao estudo aprofundado de tecnologias externas para o desenvolvimento Full Stack , com foco em aprimorar minhas habilidades tanto no Front-end quanto no Back-end .
+Sou movido por desafios e estou sempre em busca de novos conhecimentos na área da tecnologia. Tenho paixão por aprender e aplicar esse aprendizado no desenvolvimento de soluções completas, funcionais e inovadoras.
   
 #
 
@@ -31,8 +32,11 @@ Estou constantemente buscando cada vez mais conhecimentos e buscando novos desaf
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
+  <img src="https://wp.logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" height="25" alt="node logo"  />
+  <img width="8" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
