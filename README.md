@@ -42,8 +42,9 @@ Sou movido por desafios e estou sempre em busca de novos conhecimentos na área 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
 
-#
+
 <div>
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kauapereira10&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif" align="right" alt="dev imagem">
