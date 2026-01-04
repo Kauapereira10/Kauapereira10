@@ -1,55 +1,75 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img color="blue"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F5BF7&width=435&lines=%E2%8A%B9+Welcome+to+my+profile!++%E2%8A%B9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F5BF7&width=500&lines=%E2%8A%B9+Backend+Developer+in+Progress+%E2%8A%B9;%E2%8A%B9+Java+%7C+MySQL+%7C+MVC+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
-<!-- <img align="center" alt="" src="./src/header-gif.gif"> -->
+#
+
+<p align="center">
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Faculdade Uninove</strong>, com foco atual em <strong>desenvolvimento Back-end</strong>.
+<br><br>
+Tenho me dedicado ao estudo e prática de <strong>Java</strong>, aplicando conceitos de <strong>Programação Orientada a Objetos (POO)</strong>, <strong>CRUD</strong>, <strong>arquitetura MVC</strong>, <strong>JSP</strong> e <strong>integração com banco de dados MySQL</strong>.
+<br><br>
+Busco evoluir continuamente na construção de aplicações bem estruturadas, funcionais e organizadas, com foco em lógica, regras de negócio e boas práticas de desenvolvimento.
+</p>
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Uninove.
-Atualmente estou me dedicando ao estudo aprofundado de tecnologias externas para o desenvolvimento Full Stack , com foco em aprimorar minhas habilidades tanto no Front-end quanto no Back-end .
-Sou movido por desafios e estou sempre em busca de novos conhecimentos na área da tecnologia. Tenho paixão por aprender e aplicar esse aprendizado no desenvolvimento de soluções completas, funcionais e inovadoras.
-  
+<h3 align="left">Connect with me</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1F5BF7)](mailto:borgeskaua1210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1F5BF7)](https://www.linkedin.com/in/kauaborges/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=1F5BF7)](https://www.instagram.com/kau4zzz/)
+
 #
 
-<!-- <img align="right" alt="" height="190px" src="./src/study.gif"> -->
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:borgeskaua1210@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauaborges/)
-	[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kau4zzz/)
-
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Back-end Stack</h3>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
 </div>
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+#
 
+<h3 align="left">Frameworks & Conceitos</h3>
 
+- Programação Orientada a Objetos (POO)  
+- CRUD  
+- MVC (Model-View-Controller)  
+- JSP (JavaServer Pages)  
+- Integração Java com Banco de Dados (JDBC)  
+- Lógica de Programação  
+
+#
+
+<h3 align="left">Ferramentas & IDEs</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="30" alt="NetBeans"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+</div>
+
+#
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kauapereira10&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" width="100%">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kauapereira10&layout=compact&bg_color=000&border_color=1F5BF7&title_color=1F5BF7&text_color=FFF" alt="Top Langs" width="100%">
     </td>
     <td width="50%">
-      <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif" alt="Dev gif" width="100%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60%">
     </td>
   </tr>
 </table>
