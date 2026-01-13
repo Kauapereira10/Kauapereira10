@@ -63,13 +63,3 @@ Busco evoluir continuamente na construção de aplicações bem estruturadas, fu
 
 #
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kauapereira10&layout=compact&bg_color=000&border_color=1F5BF7&title_color=1F5BF7&text_color=FFF" alt="Top Langs" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60%">
-    </td>
-  </tr>
-</table>
