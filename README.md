@@ -69,7 +69,7 @@ Busco evoluir continuamente na construção de aplicações **bem estruturadas, 
   <a href="https://www.linkedin.com/in/kauaborges/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1F5BF7" />
   </a>
-  <a href="https://github.com/kauaborges" target="_blank">
+  <a href="https://github.com/Kauapereira10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=1F5BF7" />
   </a>
   <a href="https://wa.me/55119879722" target="_blank">
