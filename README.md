@@ -20,18 +20,18 @@ Busco uma oportunidade como **estagiário ou desenvolvedor Back-end Júnior**, o
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Repositorio em Destaque
 
-### 🏦 API Bancária
+### 🏦 Projetos Spring
 
-API REST desenvolvida com foco em simular operações bancárias reais.
+Projetos desenvolvidos com base meu conhecimento durante meu desenvolvimento de aprendizado
 
-**Principais funcionalidades:**
+**Principais Aplicações:**
 
-* Criação de contas
-* Depósitos e saques
-* Transferências entre contas
-* Validações de regras de negócio (saldo, limites, etc.)
+* CRUD
+* Teste no Post
+* Regra de negociões
+* Entre outros...
 
 **Stack utilizada:**
 
@@ -39,7 +39,7 @@ API REST desenvolvida com foco em simular operações bancárias reais.
 * MySQL
 * Postman
 
-👉 [Acessar projeto](https://github.com/Kauapereira10/projetos-spring/tree/main/bank-api)
+👉 [Acessar projeto](https://github.com/Kauapereira10/projetos-spring/)
 
 ---
 
