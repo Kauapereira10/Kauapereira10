@@ -11,35 +11,24 @@
 ---
 
 ## 🧑‍💻 Sobre Mim
-
 Desenvolvedor em formação com foco em **Back-end**, construindo aplicações com **Java e Spring Boot**.
-
-Minha evolução recente foi focada em sair da base teórica para a prática, desenvolvendo sistemas com **regras de negócio reais**, organização em **arquitetura em camadas** e integração com banco de dados.
-
-Busco uma oportunidade como **estagiário ou desenvolvedor Back-end Júnior**, onde eu possa contribuir com código limpo, organização e aprendizado contínuo, enquanto evoluo em projetos reais.
+Minha evolução recente foi sair da teoria para a prática: já desenvolvi um sistema de biblioteca completo (autenticação, controle de sessão, empréstimo e reserva de livros) e mantenho um repositório de estudo contínuo em Spring Boot, aplicando arquitetura em camadas, APIs REST e integração com banco de dados.
+Tenho interesse crescente em usar **inteligência artificial** como ferramenta para acelerar aprendizado e elevar a qualidade do código.
+Busco uma oportunidade de **estagiar**, onde eu possa contribuir com código organizado e continuar evoluindo em projetos reais.
 
 ---
 
-## 🚀 Repositorio em Destaque
+## 🚀 Projetos em Destaque
 
-### 🏦 Projetos Spring
+### 🏦 Sistema de Biblioteca
+CRUD completo com autenticação, controle de sessão e gestão de empréstimos/reservas.
+**Stack:** Java + Servlets + MySQL
+👉 [Acessar projeto](https://github.com/Kauapereira10/library-management-system-java)
 
-Projetos desenvolvidos com base meu conhecimento durante meu desenvolvimento de aprendizado
-
-**Principais Aplicações:**
-
-* CRUD
-* Teste no Post
-* Regra de negociões
-* Entre outros...
-
-**Stack utilizada:**
-
-* Java + Spring Boot
-* MySQL
-* Postman
-
-👉 [Acessar projeto](https://github.com/Kauapereira10/projetos-spring/)
+### 🌱 Spring Boot Practice Projects
+Repositório de estudo contínuo com mini projetos práticos em Spring Boot, incluindo API REST de To-Do List com JPA e H2.
+**Stack:** Java + Spring Boot + JPA + Hibernate
+👉 [Acessar projeto](https://github.com/Kauapereira10/projetos-spring)
 
 ---
 
