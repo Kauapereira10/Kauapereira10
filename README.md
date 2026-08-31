@@ -11,50 +11,53 @@
 ---
 
 ## 🧑‍💻 Sobre Mim
-Desenvolvedor em formação com foco em **Back-end**, construindo aplicações com **Java e Spring Boot**.
-Minha evolução recente foi sair da teoria para a prática: já desenvolvi um sistema de biblioteca completo (autenticação, controle de sessão, empréstimo e reserva de livros) e mantenho um repositório de estudo contínuo em Spring Boot, aplicando arquitetura em camadas, APIs REST e integração com banco de dados.
-Tenho interesse crescente em usar **inteligência artificial** como ferramenta para acelerar aprendizado e elevar a qualidade do código.
-Busco uma oportunidade de **estagiar**, onde eu possa contribuir com código organizado e continuar evoluindo em projetos reais.
+
+Estudante de ADS transformando teoria em código de verdade: já publiquei 4+ projetos backend em Java e Spring Boot, do CRUD básico à **Booking API**, aplicando arquitetura em camadas, DTOs e tratamento de exceções.
+
+Minha rotina inclui prática constante de exercícios de lógica (Beecrowd) a projetos completos e também já trabalhei em equipe no **FastNote**, cuidando da frente de DevOps (versionamento, ambiente e automação).
+
+Estou de olho em **inteligência artificial** como ferramenta para acelerar aprendizado e elevar a qualidade do código que produzo.
+
+🎯 Buscando minha primeira oportunidade de **estágio em backend** para colocar em prática o que já construí e evoluir junto de um time de desenvolvimento.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🏦 Sistema de Biblioteca
+### 📅 Booking API
+API REST para gerenciamento de reservas, com arquitetura em camadas, DTOs, tratamento de exceções e boas práticas de backend.
+**Stack:** Java + Spring Boot + Spring Data JPA + MySQL
+👉 [Acessar projeto](https://github.com/Kauapereira10/projetos-spring/tree/main/booking-api)
+
+### 📋 FastNote — Gerenciamento de Tarefas (projeto em equipe)
+To-Do List web com CRUD, autenticação e controle de sessão, desenvolvido em equipe de 9 pessoas na UNINOVE. Atuei na frente de DevOps (versionamento, ambiente e automação).
+**Stack:** PHP + MySQL + Git
+👉 [Acessar projeto](https://github.com/Kauapereira10/fastnote)
+
+### 📚 Sistema de Biblioteca
 CRUD completo com autenticação, controle de sessão e gestão de empréstimos/reservas.
 **Stack:** Java + Servlets + MySQL
 👉 [Acessar projeto](https://github.com/Kauapereira10/library-management-system-java)
-
-### 🌱 Spring Boot Practice Projects
-Repositório de estudo contínuo com mini projetos práticos em Spring Boot, incluindo API REST de To-Do List com JPA e H2.
-**Stack:** Java + Spring Boot + JPA + Hibernate
-👉 [Acessar projeto](https://github.com/Kauapereira10/projetos-spring)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### • Back-end
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=openjdk\&logoColor=1F5BF7)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge\&logo=springboot\&logoColor=1F5BF7)
-![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge\&logo=api\&logoColor=1F5BF7)
-![HTTP](https://img.shields.io/badge/HTTP-000?style=for-the-badge\&logo=cloudflare\&logoColor=1F5BF7)
-
----
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=1F5BF7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=1F5BF7)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=api&logoColor=1F5BF7)
+![HTTP](https://img.shields.io/badge/HTTP-000?style=for-the-badge&logo=cloudflare&logoColor=1F5BF7)
 
 ### • Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=1F5BF7)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=databricks&logoColor=1F5BF7)
 
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql\&logoColor=1F5BF7)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=databricks\&logoColor=1F5BF7)
-
----
-
-### • Ferramentas
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=1F5BF7)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge\&logo=postman\&logoColor=1F5BF7)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge\&logo=intellijidea\&logoColor=1F5BF7)
+### • DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=1F5BF7)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=1F5BF7)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=1F5BF7)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=1F5BF7)
 
 ---
 
@@ -80,8 +83,8 @@ Repositório de estudo contínuo com mini projetos práticos em Spring Boot, inc
   <a href="https://www.linkedin.com/in/kauaborges/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1F5BF7" />
   </a>
-  <a href="https://github.com/Kauapereira10">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=1F5BF7" />
+  <a href="https://kauapereira10.github.io/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=googlechrome&logoColor=1F5BF7" />
   </a>
 </div>
 
