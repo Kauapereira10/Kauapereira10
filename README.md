@@ -24,10 +24,10 @@ Estou de olho em **inteligência artificial** como ferramenta para acelerar apre
 
 ## 🚀 Projetos em Destaque
 
-### 📅 Booking API
-API REST para gerenciamento de reservas, com arquitetura em camadas, DTOs, tratamento de exceções e boas práticas de backend.
-**Stack:** Java + Spring Boot + Spring Data JPA + MySQL
-👉 [Acessar projeto](https://github.com/Kauapereira10/projetos-spring/tree/main/booking-api)
+### 📋 To-Do List API
+API REST desenvolvida com Java 21 e Spring Boot para gerenciamento de tarefas, permitindo criar, consultar, atualizar e excluir atividades. Possui filtros por status e prioridade, identificação individual de visitantes por UUID utilizando cookies e regras de negócio para controle das tarefas.(Em desenvolvimento)
+**Stack:** Java 21 + Spring Boot + Spring Data JPA + Hibernate + MySQL + H2 + JUnit 5.
+👉 [Acessar projeto](https://github.com/Kauapereira10/todolist)
 
 ### 📋 FastNote — Gerenciamento de Tarefas (projeto em equipe)
 To-Do List web com CRUD, autenticação e controle de sessão, desenvolvido em equipe de 9 pessoas na UNINOVE. Atuei na frente de DevOps (versionamento, ambiente e automação).
