@@ -1,95 +1,108 @@
-# Olá, eu sou Kauã Borges 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F5BF7&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+APIs+REST;Construindo+solu%C3%A7%C3%B5es+com+regras+de+neg%C3%B3cio" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5BF7,100:60A5FA&height=150&section=header&text=Kau%C3%A3%20Borges&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Back-end%20%7C%20Java%20%7C%20Spring%20Boot&descSize=18&descAlignY=65" alt="Kauã Borges" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&background=FFFFFF00&center=true&vCenter=true&width=640&height=50&lines=//+debugando+de+madrugada,+compilando+de+manh%C3%A3;class+Kaua+extends+BackendDeveloper+%7B+%7D;stack+%3D+%22Java+%2B+Spring+Boot+%2B+MySQL%22;while+(aprendendo)+%7B+construir()+%7D;status+%3D+%22aberto+a+est%C3%A1gio+em+back-end%22" alt="Código animado" />
 </div>
-
-<div align="center">
-  <i>Transformando lógica em soluções reais com Java e Spring Boot.</i>
-</div>
-
 ---
-
-## 🧑‍💻 Sobre Mim
-
-Estudante de ADS transformando teoria em código de verdade: já publiquei 4+ projetos backend em Java e Spring Boot, do CRUD básico à **Booking API**, aplicando arquitetura em camadas, DTOs e tratamento de exceções.
-
-Minha rotina inclui prática constante de exercícios de lógica (Beecrowd) a projetos completos e também já trabalhei em equipe no **FastNote**, cuidando da frente de DevOps (versionamento, ambiente e automação).
-
-Estou de olho em **inteligência artificial** como ferramenta para acelerar aprendizado e elevar a qualidade do código que produzo.
-
-🎯 Buscando minha primeira oportunidade de **estágio em backend** para colocar em prática o que já construí e evoluir junto de um time de desenvolvimento.
-
+ 
+## 🧑‍💻 Sobre mim
+ 
+Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE, me preparando para trabalhar com back-end em Java e Spring Boot.
+ 
+Eu gosto de construir código, mas o que mais curto é a caminhada noturna pelas linhas atrás do erro escondido, até encontrar e resolver. É assim que eu mais aprendo.
+ 
+Antes de programar, fui Aprendiz da Qualidade na Schneider Electric, onde aprendi a olhar um processo e ver onde ele pode falhar. Isso me ajuda a escrever regra de negócio.
+ 
+```java
+public class Kaua {
+    String foco   = "Back-end com Java e Spring Boot";
+    String estudo = "ADS na UNINOVE";
+    boolean abertoAEstagio = true;
+ 
+    void rotina() {
+        while (aprendendo) {
+            construir();
+            debugar();   // caminhada noturna atrás do erro
+            aprender();
+        }
+    }
+}
+```
+ 
+🎯 Procuro estágio em back-end. Bora trocar uma ideia?
+ 
 ---
-
-## 🚀 Projetos em Destaque
-
-### 📋 To-Do List API
-API REST desenvolvida com Java 21 e Spring Boot para gerenciamento de tarefas, permitindo criar, consultar, atualizar e excluir atividades. Possui filtros por status e prioridade, identificação individual de visitantes por UUID utilizando cookies e regras de negócio para controle das tarefas.(Em desenvolvimento)
-**Stack:** Java 21 + Spring Boot + Spring Data JPA + Hibernate + MySQL + H2 + JUnit 5.
+ 
+## 🚀 Projetos em destaque
+ 
+### 📋 To-Do List API &nbsp; `🚧 em desenvolvimento`
+API REST em Java 21 e Spring Boot para gerenciar tarefas: criar, consultar, atualizar e excluir, com filtros por status e prioridade, identificação de visitantes por UUID em cookie e regras de negócio para controle das tarefas.
+ 
+**Stack:** Java 21 · Spring Boot · Spring Data JPA · Hibernate · MySQL · H2 · JUnit 5
+ 
 👉 [Acessar projeto](https://github.com/Kauapereira10/todolist)
-
-### 📋 FastNote — Gerenciamento de Tarefas (projeto em equipe)
-To-Do List web com CRUD, autenticação e controle de sessão, desenvolvido em equipe de 9 pessoas na UNINOVE. Atuei na frente de DevOps (versionamento, ambiente e automação).
-**Stack:** PHP + MySQL + Git
-👉 [Acessar projeto](https://github.com/Kauapereira10/fastnote)
-
+ 
 ### 📚 Sistema de Biblioteca
-CRUD completo com autenticação, controle de sessão e gestão de empréstimos/reservas.
-**Stack:** Java + Servlets + MySQL
+Sistema web em Java com Servlets, JSP/JSTL e MySQL, no padrão MVC em camadas. Usuários se cadastram (senha com BCrypt), consultam o catálogo e fazem empréstimos e devoluções; administradores gerenciam o acervo por um painel com estatísticas. Inclui controle de sessão, tratamento global de exceções e transações com commit/rollback.
+ 
+**Stack:** Java · Servlets · JSP/JSTL · MySQL
+ 
 👉 [Acessar projeto](https://github.com/Kauapereira10/library-management-system-java)
-
+ 
+### 👥 Trabalho em equipe
+**FastNote:** To-Do List web em PHP e MySQL, feito em equipe de 9 pessoas na UNINOVE. Cuidei da frente de DevOps: versionamento, ambiente e automação.
+👉 [Acessar projeto](https://github.com/Kauapereira10/fastnote)
+ 
 ---
-
-## 🛠️ Tech Stack
-
-### • Back-end
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=1F5BF7)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=1F5BF7)
-![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=api&logoColor=1F5BF7)
-![HTTP](https://img.shields.io/badge/HTTP-000?style=for-the-badge&logo=cloudflare&logoColor=1F5BF7)
-
-### • Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=1F5BF7)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=databricks&logoColor=1F5BF7)
-
-### • DevOps & Ferramentas
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=1F5BF7)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=1F5BF7)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=1F5BF7)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellijidea&logoColor=1F5BF7)
-
+ 
+## 🛠️ Tech stack
+ 
+### Back-end
+![Java](https://img.shields.io/badge/Java-1F5BF7?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white)
+ 
+### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0EA5E9?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+ 
+### Noções
+![HTML5](https://img.shields.io/badge/HTML5-38BDF8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+### Estudando agora
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-60A5FA?style=for-the-badge&logo=junit5&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+ 
 ---
-
-## 📈 Estatísticas
-
+ 
+## 🐍 Minha atividade no GitHub
+ 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kauapereira10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauapereira10&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Kauapereira10/Kauapereira10/output/github-snake-dark.svg" alt="Snake comendo meus commits" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kauapereira10&theme=tokyonight&hide_border=true" />
-</div>
-
+### 📌 Foco atual
+- Terminar a To-Do List API com Spring Boot
+- Bootcamp Itaú – Java com Inteligência Artificial
+- Praticar lógica com exercícios do Beecrowd, em Java
 ---
-
+ 
 ## 📫 Contato
-
+ 
 <div align="center">
   <a href="mailto:borgeskaua1210@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1F5BF7" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/kauaborges/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1F5BF7" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kauapereira10.github.io/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=googlechrome&logoColor=1F5BF7" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-1F5BF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <i>Em constante evolução 🚀</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5BF7,100:60A5FA&height=90&section=footer" width="100%" alt="" />
+ 
